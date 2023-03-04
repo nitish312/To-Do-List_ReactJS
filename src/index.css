@@ -1,19 +1,21 @@
 html{
     background-color: darkslategrey;
+    /* background-color: #408EC6; */
 }
 
 .container-fluid{
-    /* background-color: rgb(12, 173, 173); */
-    background-color: darkslategrey;
+    background-color: #101820FF;
+    /* background-color: #1E2761; */
 }
 
 /* .cls2{
     background-color: rgb(122, 201, 201);
-}
+} */
 
 .cls2 li{
     background-color: darkslategrey;
-} */
+    /* background-color: #1E2761; */
+}
 
 input[type="text"]{
     background: transparent;
@@ -23,4 +25,8 @@ input[type="text"]{
 input[type="text"]:focus{
     background: transparent;
     color: white;
+}
+
+li {
+    background-color: white;
 }
