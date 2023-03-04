@@ -3,8 +3,17 @@ html{
 }
 
 .container-fluid{
+    /* background-color: rgb(12, 173, 173); */
     background-color: darkslategrey;
 }
+
+/* .cls2{
+    background-color: rgb(122, 201, 201);
+}
+
+.cls2 li{
+    background-color: darkslategrey;
+} */
 
 input[type="text"]{
     background: transparent;
